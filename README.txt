@@ -1,6 +1,6 @@
 Zeranoe FFmpeg Builds <http://ffmpeg.zeranoe.com/builds/>
 
-Build: ffmpeg-4.3.1-win64-shared
+Build: ffmpeg-4.1.3-win64-shared
 
 Configuration:
   --disable-static
