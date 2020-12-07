@@ -1,4 +1,4 @@
-Zeranoe FFmpeg Builds <http://ffmpeg.zeranoe.com/builds/>
+ex-Zeranoe FFmpeg Builds <https://github.com/tormyvancool/ffmpeg-4.1.3-shared-for-reaper/>
 
 Build: ffmpeg-4.1.3-win64-shared
 
